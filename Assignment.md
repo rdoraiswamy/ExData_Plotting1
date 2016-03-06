@@ -33,15 +33,15 @@ The four plots created by the programs are shown below.
 
 ### Plot 2
 
-!(plot2.png) 
+![Plot 2](https://github.com/rdoraiswamy/ExData_Plotting1/blob/master/Assignment_Expl_analysis/plot2.png) 
 
 
 ### Plot 3
 
-!(plot3.png) 
+![Plot 2](https://github.com/rdoraiswamy/ExData_Plotting1/blob/master/Assignment_Expl_analysis/plot3.png) 
 
 
 ### Plot 4
 
-!(plot4.png) 
 
+![Plot 2](https://github.com/rdoraiswamy/ExData_Plotting1/blob/master/Assignment_Expl_analysis/plot4.png) 
