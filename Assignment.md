@@ -28,7 +28,7 @@ The four plots created by the programs are shown below.
 ### Plot 1
 
 
-![Plot 1](./plot1.png) 
+![Plot 1](https://github.com/rdoraiswamy/ExData_Plotting1/blob/master/Assignment_Expl_analysis/plot1.png) 
 
 
 ### Plot 2
